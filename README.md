@@ -1,4 +1,4 @@
-[https://akportfolio1.netlify.app/](https://ssportfolio7927.netlify.app/)
+[https://ssportfolio7927.netlify.app/](https://ssportfolio7927.netlify.app/)
 
 # SSPORTFOLIO
 
