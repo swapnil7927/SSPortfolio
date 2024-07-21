@@ -1,7 +1,6 @@
-https://akportfolio1.netlify.app/
-https://akportfolio-v38y.onrender.com/
+[https://akportfolio1.netlify.app/](https://ssportfolio7927.netlify.app/)
+
 # SSPORTFOLIO
 
 Welcome to the PortFolio Website repository! Visit the live demo:
 
-[PortFolio Link]([https://inotebook-frontend-8cd1.onrender.com](https://akportfolio1.netlify.app/)https://akportfolio1.netlify.app/)
